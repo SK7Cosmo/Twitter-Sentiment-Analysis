@@ -1,3 +1,10 @@
+> ⚠️ **Note**
+> This project was originally developed in **2019**. Some libraries, APIs, and functions used in the code may now be **deprecated or updated**.
+> 
+> It is recommended to use this repository primarily to understand the **overall workflow, feature engineering techniques, and modeling approach**.
+> 
+> For practical use, please update the dependencies and modify deprecated functions to align with the latest versions of the libraries.
+
 ## 🧠 NLP Techniques Used
 
 The following NLP techniques are used for feature extraction:
